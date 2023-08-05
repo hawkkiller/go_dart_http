@@ -18,4 +18,4 @@ rundart:
 	@make ffigen
 
 	# run dart
-	@dart run bin/ffitest.dart
+	@dart run bin/http.dart
